@@ -1,0 +1,149 @@
+body{
+margin: 0;
+}
+
+.first-contain{
+background-color: #66CDAA;
+text-align: center;
+font-family: 'Pacifico', cursive;
+font-size: 20px;
+padding: 5px;
+position: relative;
+padding-bottom: 2px;
+}
+h3{
+  width: 20%;
+  margin: 10px auto;
+  font-family: 'Pacifico', cursive;
+}
+span{
+  text-decoration: underline;
+}
+.first-image{
+  margin:10px;
+  width:200px;
+  height:200px;
+  position:relative;
+  left: 20%;
+
+}
+.second-image{
+  width:200px;
+  height:150px;
+  margin: 10px;
+  position: absolute;
+  bottom:250px;
+  left: 10%;
+
+}
+.third-image{
+  width:250px;
+  height:200px;
+  margin: 10px;
+  position: relative;
+  left: 200px;
+  top: 20px;
+}
+
+.second-contain{
+  padding: 20px;
+  text-align: center;
+  font-family: 'Bree Serif', serif;
+  font-size: 20px;
+}
+hr{
+margin-bottom: 20px;
+border-style: none;
+border-top-style: dotted;
+border-color: #66CDAA;
+border-width: 5px;
+width: 5%;
+}
+.skills{
+  width: 40%;
+  text-align:left;
+  margin: auto;
+  margin: 100px auto 100px auto;
+}
+.graduation{
+width: 25%;
+float: left;
+margin-right: 5%;
+}
+.code{
+  width: 25%;
+  float: right;
+  margin-left: 5%;
+}
+.games{
+  width: 25%;
+  float: left;
+  margin-right: 5%;
+}
+.contact-me{
+text-align: center;
+padding: 4%;
+}
+.heading{
+  color: #66CDAA;
+  font-family: 'Bree Serif', serif;
+  font-weight: bold;
+  width: 20%;
+  margin: auto;
+margin-bottom: 30px;
+}
+.paragraph{
+  width:25%;
+margin: auto;
+margin-bottom: 30px;
+  font-family: 'Bree Serif', serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+.classname {
+	background-color:transparent;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#66cdab;
+	font-family:arial;
+	font-size:19px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
+.footer{
+  padding: 30px;
+background-color: #66CDAA;
+text-align: center;
+}
+.links{
+  font-family:'Bree Serif', serif;
+  margin-right: 20px;
+  font-size: 16px;
+  text-decoration: none;
+  color: white;
+}
+.links:hover{
+  color: blue;
+}
